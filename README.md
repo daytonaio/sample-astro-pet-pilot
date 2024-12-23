@@ -33,7 +33,7 @@ Pet Pilot AI bridges this gap by providing a user-friendly platform that deliver
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
    ```bash  
-   daytona create https://github.com/drk025/pet-pilot-ai
+   daytona create https://github.com/daytonaio/sample-astro-pet-pilot
    ```
 2. **Make sure that port 4321 is added as the forward port. You may need to manually add port 3000 in your VSCode otherwise backend might not work.**:  
 3. **Set up the environment variables by creating a **.env** file inside the backend directory and add your groq api**:
